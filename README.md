@@ -1,6 +1,8 @@
 # Projeto 03 - Animação multithread do problema Dining Hall
 
-Desenvolvido para disciplina de Sistemas Operacionais (MC504) da UNICAMP.
+
+Desenvolvido para disciplina de Sistemas Operacionais (MC504) da UNICAMP, o presente trabalho visa a implementação de uma aplicação multithread utilizando locks e variáveis de condição para sincronização a fim de resolver o problema Dining Hall - descrito no livro The Little Book of Semaphores de Allen B. Downey. Além disso, o projeto conta também com a implementação de uma animação, responsável por apresentar cada estado do problema - simulando o nosso Restaurante Universitário.
+
 
 Projeto 3 realizado por:
 
